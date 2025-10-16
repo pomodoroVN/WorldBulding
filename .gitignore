@@ -3,7 +3,7 @@
 
 
 !/.gitignore
-
 !/1. project/
 !/1. project/PV/
 !/1. project/PV/PV-Share/
+!/1. project/PV/PV-Share/**

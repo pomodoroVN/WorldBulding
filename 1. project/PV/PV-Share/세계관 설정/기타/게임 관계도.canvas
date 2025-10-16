@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4e3f18a6b561593a","type":"file","file":"1. project/PV/PV-Share/세계관 설정/세계관/SF/장소/출판사.md","x":-111,"y":-131,"width":400,"height":400,"color":"5"},
+		{"id":"93a0f4345f912828","type":"file","file":"1. project/PV/PV-Share/세계관 설정/세계관/SF/개념/SF.md","x":-111,"y":-620,"width":400,"height":400,"color":"5"},
+		{"id":"b8c1d167fe29b988","type":"text","text":"데일리즈로 대표되는 도시와 뒷골목의 차별에 대한 냉전","x":505,"y":-727,"width":295,"height":107},
+		{"id":"de9e0c64af680441","type":"text","text":"데일리즈가 뒷골목을 완전히 장악하려 함\n\n뒷골목에서는 한 번 도시를 완전히 뒤엎으려 함","x":920,"y":-727,"width":280,"height":182},
+		{"id":"73887279564da7f2","type":"text","text":"안드로이드와 인간에 대한 냉전, 누군가가 안드로이드에 대한 악소문을 퍼뜨리고 있음","x":505,"y":-545,"width":303,"height":175},
+		{"id":"608f4fbf5078633f","x":552,"y":-203,"width":250,"height":60,"type":"text","text":"도시 시민들의 직업은 사실 인공지능에게 모두 대체되었고, 남은 것은 "}
+	],
+	"edges":[]
+}
